@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://sherzodbeww.github.io/botir-tolqunov/sitemap.xml
+Sitemap: https://botirtolqunov.github.io/sitemap.xml
